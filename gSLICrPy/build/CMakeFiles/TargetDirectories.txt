@@ -1,0 +1,8 @@
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/CMakeFiles/rebuild_cache.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/CMakeFiles/edit_cache.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/CMakeFiles/demo.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/CMakeFiles/gSLICr_lib.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/CMakeFiles/DEMO.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/ORUtils/CMakeFiles/rebuild_cache.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/ORUtils/CMakeFiles/ORUtils.dir
+/home/wang/Desktop/SSH/lib/gSLICrPy/build/ORUtils/CMakeFiles/edit_cache.dir
